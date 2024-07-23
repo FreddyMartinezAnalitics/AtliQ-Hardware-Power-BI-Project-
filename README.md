@@ -3,8 +3,12 @@ Atliq Hardware, a global company, encountered challenges analyzing data from var
 
 This comprehensive dashboard provides a holistic view of our hotel operations. By leveraging data-driven insights, our directors can make informed decisions to drive business success 📈!
 
+   𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐞𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧❗
 
-https://github.com/user-attachments/assets/4158ca69-d343-4741-9812-259d42776484
+   
+
+https://github.com/user-attachments/assets/5a7ac5fa-fa96-401a-b881-6b1ce1e436f7
+
 
 
 𝐒𝐤𝐢𝐥𝐥𝐬 𝐮𝐬𝐞𝐝:
