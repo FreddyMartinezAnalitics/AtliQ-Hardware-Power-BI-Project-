@@ -33,6 +33,6 @@ On this page, you will find a comprehensive performance report for AtliQ Hospita
 
 The page contains detailed information regarding revenue and various vital metrics such as REVPAR, DURN, ADR, DBRN, and DSRN. It also presents visual line charts illustrating trends based on RevPAR, ADR, and occupancy percentage. Furthermore, it includes critical insights into revenue by booking platform, key metrics, and an interactive filter panel for easy data filtering.
 
-    ![image](https://github.com/user-attachments/assets/cdf1dcf5-546f-4e56-84dd-935d22010df3)
+   ![image](https://github.com/user-attachments/assets/c266cf6a-2e6f-450a-92ee-38636f4f05bc)
 
  𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝! https://lnkd.in/e8sv4vey
