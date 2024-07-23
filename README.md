@@ -26,8 +26,13 @@ Overall Performance Page💾
 
 On this page, you will find a comprehensive performance report for AtliQ Hospitality. The report includes detailed information such as occupancy percentage, revenue, average ratings, and a breakdown by city. Additionally, there is a visual representation of trends by week based on occupancy percentage and average rating. The report also includes key metrics and an interactive filter panel for convenient data filtering.
 
+   ![image](https://github.com/user-attachments/assets/9f5b0edb-6a1e-4c56-8203-0591c5cc0abf)
+
+
  Revenue Page🏦
 
 The page contains detailed information regarding revenue and various vital metrics such as REVPAR, DURN, ADR, DBRN, and DSRN. It also presents visual line charts illustrating trends based on RevPAR, ADR, and occupancy percentage. Furthermore, it includes critical insights into revenue by booking platform, key metrics, and an interactive filter panel for easy data filtering.
+
+    ![image](https://github.com/user-attachments/assets/cdf1dcf5-546f-4e56-84dd-935d22010df3)
 
  𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝! https://lnkd.in/e8sv4vey
